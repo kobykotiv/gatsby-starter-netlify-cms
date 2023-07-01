@@ -1,37 +1,23 @@
 ---
-templateKey: 'product-page'
+heading: By utilizing Next, you can create a dynamic and responsive user
+  interface that customers love
 path: /products
-title: Our Coffee
-image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+templateKey: product-page
+title: Our Awesome AI Sauce
+image: /img/a_photograph_of_an_astronaut_riding_a_horse_ehzizmh0.jpeg
+description: React's component-based architecture and Next.js's server-side
+  rendering capabilities can enhance the app's performance and provide a smooth
+  user experience.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/a_stranger_hates_themself__he_walks_alone_at_night_dch27wm0.jpeg
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
         variety of coffee beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
         availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
+    - image: /img/cuthulu_smoking_a_pipe__cubist__paper_model_eiaxwtg0.jpeg
       text: >
         We believe that good coffee has the power to bring people together.
         That’s why we decided to turn a corner of our shop into a cozy meeting
@@ -45,12 +31,10 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Great code with no compromises
+  description: We hold our apps to the highest standards from the draft to
+    deployment. That’s why we’re meticulous and transparent about each step of
+    the app's journey.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
@@ -62,20 +46,17 @@ main:
     image: /img/products-grid1.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
+    quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
       the same thing I’ve been drinking every morning.
   - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+    quote: Kaldi is the place to go if you want the best quality coffee. I love
+      their stance on empowering farmers and transparency.
+full_image: /img/large_thumb_t-shirt-mockup-featuring-a-bearded-man-leaning-against-a-rusty-wall-32841.jpg
 pricing:
   heading: Monthly subscriptions
-  description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+  description: We make it easy to make great coffee a part of your life. Choose
+    one of our monthly subscription plans to receive great coffee at your
+    doorstep each month. Contact us about more details and payment info.
   plans:
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
       items:
@@ -83,19 +64,19 @@ pricing:
         - Green or roasted beans"
         - One or two varieties of beans"
       plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+      price: "50"
+    - description: Great for avid drinkers, java-loving couples and bigger crowds
       items:
         - 6 lbs of coffee per month
         - Green or roasted beans
         - Up to 4 different varieties of beans
       plan: Big
-      price: '80'
+      price: "80"
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
         - Whatever you need
         - Green or roasted beans
         - Unlimited varieties
       plan: Custom
-      price: '??'
+      price: ??
 ---
