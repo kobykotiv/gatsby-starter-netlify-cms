@@ -1,19 +1,19 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
+title: Generic Article Title
 date: 2016-12-17T15:04:10.000Z
-featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+description: A whole bunch of hard-work goes into the writing, editing, and
+  rewriting of our postings. A lot of content is to be churned-out &
+  outstandingly smooth like butter. No rocking of the boat here!
+featuredpost: true
+featuredimage: /img/over-engineered_typewriter__melting_in_lava__cubis_eid01f10.jpeg
 tags:
   - flavor
   - tasting
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![orange lit typewriter](/img/over-engineered_typewriter__melting_in_lava__cubis_eid01f10.jpeg "The typewriter")
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
-
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+One potential startup idea that can be turned into an easy React or Next.js app is a task management or productivity tool. The app could have features such as task lists, reminders, progress tracking, and collaboration capabilities. Users can create and organize tasks, set deadlines, receive notifications, and collaborate with team members.
 
 ## What the updates mean to you
 
