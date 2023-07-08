@@ -1,11 +1,11 @@
 ---
 templateKey: index-page
 title: Great code backed by satisfied Admins
-image: /img/home-jumbotron.jpg
+image: /img/a_stranger_hates_themself__he_walks_alone_at_night_dch27wm0.jpeg
 heading: A codebase you can rely on
 subheading: Support sustainable coffee while enjoying a cup and our code
 mainpitch:
-  title: Why BetterCode
+  title: Why BetterCode?
   description: Bettercode is the web agency of choice for entire app ecosystems
     and landing pages alike!
 description: We are a team of experienced web developers and designers who can
@@ -53,11 +53,11 @@ main:
     optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/waiting_to_be_saved_from_his_sadness._very_detaile_dah4dfu0.jpeg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/a_stranger_hates_themself__he_walks_alone_at_night_dch27wm0.jpeg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/a_stranger_hates_themself__he_walks_alone_at_night_dch27wm0.jpeg
 ---
