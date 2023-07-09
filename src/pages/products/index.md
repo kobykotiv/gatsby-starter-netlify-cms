@@ -72,6 +72,11 @@ pricing:
         - Up to 4 different varieties of beans
       plan: Big
       price: "99"
+    - plan: Ultra
+      price: "499"
+      description: Everything and then some
+      items:
+        - onetwothree
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
         - Whatever you need
