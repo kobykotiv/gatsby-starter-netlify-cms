@@ -4,7 +4,7 @@ heading: By utilizing Next, you can create a dynamic and responsive user
 path: /products
 templateKey: product-page
 title: Our Awesome AI Sauce
-image: /img/a_photograph_of_an_astronaut_riding_a_horse_ehzizmh0.jpeg
+image: /img/a_stranger_hates_themself__he_walks_alone_at_night_dch27wm0.jpeg
 description: React's component-based architecture and Next.js's server-side
   rendering capabilities can enhance the app's performance and provide a smooth
   user experience.
@@ -37,13 +37,13 @@ main:
     the app's journey.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/a_stranger_hates_themself__he_walks_alone_at_night_dch27wm0.jpeg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/a_stranger_hates_themself__he_walks_alone_at_night_dch27wm0.jpeg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/a_stranger_hates_themself__he_walks_alone_at_night_dch27wm0.jpeg
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
@@ -51,7 +51,7 @@ testimonials:
   - author: Philipp Trommler
     quote: Kaldi is the place to go if you want the best quality coffee. I love
       their stance on empowering farmers and transparency.
-full_image: /img/products-grid1.jpg
+full_image: /img/a_stranger_hates_themself__he_walks_alone_at_night_dch27wm0.jpeg
 pricing:
   heading: Monthly subscriptions
   description: We make it easy to make great coffee a part of your life. Choose
@@ -64,19 +64,19 @@ pricing:
         - Green or roasted beans"
         - One or two varieties of beans"
       plan: Small
-      price: "50"
+      price: "49"
     - description: Great for avid drinkers, java-loving couples and bigger crowds
       items:
         - 6 lbs of coffee per month
         - Green or roasted beans
         - Up to 4 different varieties of beans
       plan: Big
-      price: "80"
+      price: "99"
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
         - Whatever you need
         - Green or roasted beans
         - Unlimited varieties
-      plan: Custom
-      price: ??
+      plan: Enterprise
+      price: Contact Us
 ---
