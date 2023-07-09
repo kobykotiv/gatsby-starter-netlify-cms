@@ -76,7 +76,9 @@ pricing:
       price: "499"
       description: Everything and then some
       items:
-        - onetwothree
+        - one
+        - two
+        - three
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
         - Whatever you need
